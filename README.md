@@ -34,7 +34,7 @@ It is built for pentesters, security researchers, and bug bounty hunters who wan
 
 ### Setup
 
-git clone https://github.com/muhammadsajid18372-prog/ReconX.git  
+git clone https://github.com/ms0092/ReconX.git  
 cd ReconX  
 pip install -r requirements.txt  
 
